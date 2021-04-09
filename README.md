@@ -24,6 +24,8 @@ The main specifications of the application are:
 
 Pay attention to the synchronization of the threads when extracting tokens from the board.
 
+I have finished everything in compulsory.
+
 ## Optional
 
 - Implement the scoring and determine who the winner is at the end of the game.
