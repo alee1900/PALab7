@@ -1,6 +1,6 @@
 # PALab7
 
-Concurrency
+## Concurrency
 
 Write a program that simulates the following positional game between a given number of players (TSP Game).
 
