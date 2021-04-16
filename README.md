@@ -35,6 +35,8 @@ I have finished everything in compulsory.
 A manual player will use the keyboard, while the bot will extract a random token. Simulate bot contests on large graphs.
 - Implement a timekeeper thread that runs concurrently with the player threads, as a daemon. This thread will display the running time of the game and it will stop the game if it exceeds a certain time limit.
 
+I have finished the first and last bullet points in optional.
+
 ## Bonus
 
 - Implement a "smart" player. This should try to create valuable sequences, while not allowing others to extend theirs.
